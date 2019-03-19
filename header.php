@@ -2,9 +2,11 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
     <title>ICT Forum</title>
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/font.css">
+    <link rel="icon" href="img/logo_forum.ico">
   </head>
   <body>
 
