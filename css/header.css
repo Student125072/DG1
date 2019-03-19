@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+}
+
+.main-navbar{
+  background-color: white;
+  width: 100%;
+  font-family: SourceSans;
+}
+
+.main-navbar img{
+  width: 50px;
+  height: 50px;
+  vertical-align: middle;
+}
+
+.main-navbar ul{
+  list-style-type: none;
+}
+
+.main-navbar li{
+  display: inline;
+  background-color: white;
+}
+
+.main-navbar li a{
+  text-decoration: none;
+  color: black;
+  padding: 50px;
+  display: table-cell;
+}
+
+.main-navbar .login-nav{
+  display: inline;
+  float: right;
+  margin-top: 50px;
+  margin-right: 20px;
+}
+
+.main-navbar .login-nav p{
+  font-size: 12px;
+}
+
+.main-navbar .login-nav button{
+  border-radius: 8px;
+  border: none;
+  background-color: black;
+  color: white;
+  font-family: SourceSans;
+  padding: 4px;
+}
+
+.main-navbar .login-nav input{
+  font-family: SourceSansLight;
+  border: none;
+  border-radius: 8px;
+  background-color: #dfdfdf;
+  padding: 5px;
+}
