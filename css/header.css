@@ -5,6 +5,11 @@
 .main-navbar{
   background-color: white;
   width: 100%;
+  box-shadow: 5px 5px 8px #888888;
+  font-family: SourceSans;
+}
+
+.main-navbar p, a{
   font-family: SourceSans;
 }
 
