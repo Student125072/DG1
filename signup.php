@@ -1,5 +1,17 @@
 <?php include 'header.php' ?>
 
+<?php
+
+//call the config file
+require_once('includes/config.inc.php');
+
+
+
+
+
+
+ ?>
+
   <link rel="stylesheet" href="css/signup.css">
   <link rel="stylesheet" href="css/font.css">
 
