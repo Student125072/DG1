@@ -18,7 +18,7 @@
           </a>
           <li><a href="index.php">HOME</a></li>
           <li><a href="forum.php">FORUM</a></li>
-          <form class="login-nav" action="includes/login.inc.php" method="post">
+          <form class="login-nav" action="index.php" method="post">
               <input type="text" name="userID" placeholder="Username">
               <input type="password" name="pwd" placeholder="Password">
               <button type="submit" name="login-submit">LOGIN</button>
