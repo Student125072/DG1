@@ -2,13 +2,13 @@
 
 Schoolopdracht Drenthe College Cicero, 1e jaar.
 
-
+<br>
 
 > "Het onwikkelproces moet inzichtelijk zijn, dus veel commits en zinvol commentaar."
 >
 > > "De taken moeten ook overzichtelijk worden bijgehouden."
 
-
+<br>
 
 Door het gebruiken van GitHub kan ik mijn ontwikkelproces heel goed laten zien. De taken zijn bijgehouden via GitKraken.
 
